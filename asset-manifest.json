@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Esther3000/e-restaurantstatic/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Esther3000/e-restaurantstatic/js/main.8fdf0d3a.chunk.js",
-    "main.js.map": "/Esther3000/e-restaurantstatic/js/main.8fdf0d3a.chunk.js.map",
-    "runtime-main.js": "/Esther3000/e-restaurantstatic/js/runtime-main.9aefc597.js",
-    "runtime-main.js.map": "/Esther3000/e-restaurantstatic/js/runtime-main.9aefc597.js.map",
-    "static/js/2.cad2c87b.chunk.js": "/Esther3000/e-restaurantstatic/js/2.cad2c87b.chunk.js",
-    "static/js/2.cad2c87b.chunk.js.map": "/Esther3000/e-restaurantstatic/js/2.cad2c87b.chunk.js.map",
-    "static/js/3.3c06b538.chunk.js": "/Esther3000/e-restaurantstatic/js/3.3c06b538.chunk.js",
-    "static/js/3.3c06b538.chunk.js.map": "/Esther3000/e-restaurantstatic/js/3.3c06b538.chunk.js.map",
+    "main.css": "/Esther3000/e-restaurantstatic/css/main.b2332808.chunk.css",
+    "main.js": "/Esther3000/e-restaurantstatic/js/main.e3b3d458.chunk.js",
+    "main.js.map": "/Esther3000/e-restaurantstatic/js/main.e3b3d458.chunk.js.map",
+    "runtime-main.js": "/Esther3000/e-restaurantstatic/js/runtime-main.8f96a2d8.js",
+    "runtime-main.js.map": "/Esther3000/e-restaurantstatic/js/runtime-main.8f96a2d8.js.map",
+    "static/js/2.06043d69.chunk.js": "/Esther3000/e-restaurantstatic/js/2.06043d69.chunk.js",
+    "static/js/2.06043d69.chunk.js.map": "/Esther3000/e-restaurantstatic/js/2.06043d69.chunk.js.map",
+    "static/js/3.460aa413.chunk.js": "/Esther3000/e-restaurantstatic/js/3.460aa413.chunk.js",
+    "static/js/3.460aa413.chunk.js.map": "/Esther3000/e-restaurantstatic/js/3.460aa413.chunk.js.map",
     "index.html": "/Esther3000/e-restaurantindex.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Esther3000/e-restaurantstatic/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.cad2c87b.chunk.js.LICENSE.txt": "/Esther3000/e-restaurantstatic/js/2.cad2c87b.chunk.js.LICENSE.txt",
+    "static/css/main.b2332808.chunk.css.map": "/Esther3000/e-restaurantstatic/css/main.b2332808.chunk.css.map",
+    "static/js/2.06043d69.chunk.js.LICENSE.txt": "/Esther3000/e-restaurantstatic/js/2.06043d69.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/Esther3000/e-restaurantstatic/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9aefc597.js",
-    "static/js/2.cad2c87b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8fdf0d3a.chunk.js"
+    "static/js/runtime-main.8f96a2d8.js",
+    "static/js/2.06043d69.chunk.js",
+    "static/css/main.b2332808.chunk.css",
+    "static/js/main.e3b3d458.chunk.js"
   ]
 }
